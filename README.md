@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Feresin</h1>
 <h3 align="center">Junior Backend Developer</h3>
 
-- 🔭 I’m currently working on GlobalLogic
+- 🔭 I’m currently working at GlobalLogic
 
 - 🌱 I’m currently learning **Java, JavaScript and Python**
 
