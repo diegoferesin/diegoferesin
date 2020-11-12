@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Diego Feresin 🤘</h1>
 <h3 align="center">Junior Backend Developer</h3>
 
-- 🔭 I’m currently working at GlobalLogic
+- 🔭 I’m currently working at [GlobalLogic](https://www.linkedin.com/company/globallogic/)
 
 - 🌱 I’m currently learning **Java, JavaScript and Python**
 
 - 📫 How to reach me **diegoferesin@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/diegoferesin/](https://www.linkedin.com/in/diegoferesin/)
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/diegoferesin/)
 
 - ⚡ Fun fact **I love play and listen music**
 
