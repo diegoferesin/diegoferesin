@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Diego Feresin 🤘</h1>
 <h3 align="center">Junior Backend Developer</h3>
 
-- 🔭 I’m currently working at [Fiera Studio](https://www.fierastudio.com/)
+- 🔭 I’m currently working at [Ualá](https://ar.linkedin.com/company/ual%C3%A1)
 
-- 🌱 I’m currently working/learning **Java, Kotlin, JavaScript**
+- 🌱 I’m currently working/learning **Java, Kotlin, Go**
 
 - 📫 How to reach me **diegoferesin@gmail.com**
 
