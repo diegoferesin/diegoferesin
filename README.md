@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Ualá](https://ar.linkedin.com/company/ual%C3%A1)
 
-- 🌱 I’m currently working/learning **Java, Kotlin, Go and Python**
+- 🌱 I’m currently working/learning **Go, Java, Javascript and Python**
 
 - 🌱 I’m a student at [BYU - Pathway Worldwide](https://www.byupathway.org/)
 
@@ -12,4 +12,3 @@
 - 📄 Know about my experiences [here](https://www.linkedin.com/in/diegoferesin/)
 
 - ⚡ Fun fact **I love play and listen music**
-
