@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working/learning **Go, Java, Javascript and Python**
 
-- 🌱 I’m a student at [BYU - Pathway Worldwide](https://www.byupathway.org/)
+- 🌱 I’m an onlie student at [BYU - Idaho](https://www.byui.edu/)
 
 - 📫 How to reach me **diegoferesin@gmail.com**
 
