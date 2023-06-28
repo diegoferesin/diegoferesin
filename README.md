@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at [Ualá](https://ar.linkedin.com/company/ual%C3%A1)
 
-- 🌱 I’m currently working/learning **Go, Java, Javascript and Python**
+- 🌱 I’m currently working/learning **Go, Java and Javascript**
 
 - 🌱 I’m an online student at [BYU - Idaho](https://www.byui.edu/)
 
