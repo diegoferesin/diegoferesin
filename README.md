@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Feresin 🤘</h1>
 <h3 align="center">Backend Software Developer</h3>
 
-- 🔭 I’m currently working at [Ualá](https://www.linkedin.com/company/stori-card/)
+- 🔭 I’m currently working at [Stori](https://www.linkedin.com/company/stori-card/)
 
 - 🌱 I’m currently working/learning **Go, Java and Javascript**
 
